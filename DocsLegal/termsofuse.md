@@ -11,11 +11,11 @@ ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
 ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
-ms.sourcegitcommit: 3cfbabd1cd8dac0925815ab42ae1640787749fb7
+ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
 ms.translationtype: HT
 ms.contentlocale: en-ZA
-ms.lasthandoff: 08/14/2021
-ms.locfileid: "122177370"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "141347456"
 ---
 # <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com – Terms of use
 
@@ -49,7 +49,7 @@ WITHOUT LIMITING THE FOREGOING, COPYING OR REPRODUCTION OF THE SOFTWARE TO ANY O
 
 THE SOFTWARE IS WARRANTED, IF AT ALL, ONLY ACCORDING TO THE TERMS OF THE LICENCE AGREEMENT. EXCEPT AS WARRANTED IN THE LICENCE AGREEMENT, MICROSOFT CORPORATION HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH REGARD TO THE SOFTWARE, INCLUDING ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, WHETHER EXPRESS, IMPLIED OR STATUTORY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. FOR YOUR CONVENIENCE, MICROSOFT MAY MAKE AVAILABLE AS PART OF THE SERVICES OR IN ITS SOFTWARE PRODUCTS, TOOLS AND UTILITIES FOR USE AND/OR DOWNLOAD. MICROSOFT DOES NOT MAKE ANY ASSURANCES WITH REGARD TO THE ACCURACY OF THE RESULTS OR OUTPUT THAT DERIVES FROM SUCH USE OF ANY SUCH TOOLS AND UTILITIES. PLEASE RESPECT THE INTELLECTUAL PROPERTY RIGHTS OF OTHERS WHEN USING THE TOOLS AND UTILITIES MADE AVAILABLE ON THE SERVICES OR IN MICROSOFT SOFTWARE PRODUCTS.
 
-RESTRICTED RIGHTS LEGEND. Any Software which is downloaded from the Services for or on behalf of the South Africa, its agencies and/or instrumentalities ("SA Government"), is provided with Restricted Rights. Use, duplication or disclosure by the SA Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software – Restricted Rights at 48 CFR 52.227-19, as applicable. Manufacturer is Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399.
+RESTRICTED RIGHTS LEGEND. Any Software which is downloaded from the Services for or on behalf of the United States of America, its agencies and/or instrumentalities ("US Government"), is provided with Restricted Rights. Use, duplication, or disclosure by the US Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software – Restricted Rights at 48 CFR 52.227-19, as applicable. Manufacturer is Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399.
 
 ## <a name="notice-specific-to-documents-available-on-this-website"></a>Notice Specific to Documents Available on this Website
 
@@ -74,7 +74,7 @@ You may need a Microsoft account, Azure Active Directory account or Tech Profile
 
 **Azure Active Directory Account**. You may have an account with Microsoft through an organisation to which you belong. Please contact your organisation’s administrator for information about this account.
 
-**Tech Profile Account**. Your Tech Profile account lets you sign in to the Microsoft Docs website and use the associated services, including free access to learning resources, unblocking achievements, rating, commenting, posting content and using other interactive services. You can create a Tech Profile account by creating a username in [Tech Profile](https://techprofile.microsoft.com/) after logging-in with a Microsoft Account or Azure Active Directory Account.
+**Tech Profile Account**. Your Tech Profile account lets you sign in to the Microsoft Docs website and use the associated services, including free access to learning resources, unblocking achievements, rating, commenting, posting content and using other interactive services. You can create a Tech Profile account by creating a username in [Tech Profile](https://techprofile.microsoft.com/) after logging in with a Microsoft Account or Azure Active Directory Account.
 
 You agree not to use any false, inaccurate or misleading information when signing up for your Tech Profile account. You are entirely responsible for maintaining the confidentiality of your password and account. Furthermore, you are entirely responsible for any and all activities that occur under your account. You agree to notify Microsoft immediately of any unauthorised use of your account or any other breach of security. Microsoft will not be liable for any loss that you may incur as a result of someone else using your password or account, either with or without your knowledge. However, you could be held liable for losses incurred by Microsoft or another party due to someone else using your account or password. You may not use anyone else's account at any time, without the permission of the account holder.
 
@@ -114,7 +114,7 @@ Always use caution when giving out any personally identifiable information about
 
 Materials uploaded to the Services may be subject to posted limitations on usage, reproduction and/or dissemination; you are responsible for adhering to such limitations if you download the materials.
 
-The videos and eBooks might be in English only. If you click the links, you may be redirected to a South African website whose content is solely in English.
+The videos and eBooks might be in English only. If you click the links, you may be redirected to a US website whose content is solely in English.
 
 ## <a name="materials-provided-to-microsoft-or-posted-to-the-services"></a>Materials Provided to Microsoft or Posted to the Services
 
